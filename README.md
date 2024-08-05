@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Cloud- und Webentwickler</h2><br> <h6 align="left"> Engagierter und zielorientierter Profi mit umfangreicher Erfahrung im Bereich Transport und neu erworbenen Fähigkeiten in der Cloud- und Webentwicklung. Suche eine Position als Cloud- und Webentwickler, um meine Fähigkeiten in einem innovativen Team einzusetzen und weiterzuentwickeln.</h6>
+<h2 align="left">Cloud- und Webentwickler</h2> <h6 align="left"> Engagierter und zielorientierter Profi mit umfangreicher Erfahrung im Bereich Transport und neu erworbenen Fähigkeiten in der Cloud- und Webentwicklung. Suche eine Position als Cloud- und Webentwickler, um meine Fähigkeiten in einem innovativen Team einzusetzen und weiterzuentwickeln.</h6>
 
 ###
 
